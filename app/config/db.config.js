@@ -1,9 +1,9 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "123456",
-  DB: "testdb",
-  dialect: "mysql",
+  HOST: "ep-wandering-queen-00550607.eu-central-1.aws.neon.tech",
+  USER: "jamelmrad",
+  PASSWORD: "CJ7Xb8WKlAuN",
+  DB: "neondb",
+  dialect: "postgres",
   pool: {
     max: 5,
     min: 0,
